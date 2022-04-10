@@ -1,9 +1,9 @@
 # Projeto dtmoney da Rocketseat
 
 <div display="flex">
-  <img align="center" alt="dtmoney vazio" width="400" src="https://user-images.githubusercontent.com/66926989/162601263-de2c1c87-bd1c-4593-b137-f18d28806e44.png" />
-  <img align="center" alt="dtmoney vazio" width="400" src="https://user-images.githubusercontent.com/66926989/162601265-11dea574-6387-4838-93cc-13bd66868c08.png" />
-  <img align="center" alt="dtmoney vazio" width="400" src="https://user-images.githubusercontent.com/66926989/162601267-cb1964cf-73f3-443f-a34f-5ec26123a643.png" />
+  <img align="center" alt="dtmoney vazio" width="600" src="https://user-images.githubusercontent.com/66926989/162601263-de2c1c87-bd1c-4593-b137-f18d28806e44.png" />
+  <img align="center" alt="dtmoney vazio" width="600" src="https://user-images.githubusercontent.com/66926989/162601265-11dea574-6387-4838-93cc-13bd66868c08.png" />
+  <img align="center" alt="dtmoney vazio" width="600" src="https://user-images.githubusercontent.com/66926989/162601267-cb1964cf-73f3-443f-a34f-5ec26123a643.png" />
 </div>
 
 ## Tecnologias 🚀
